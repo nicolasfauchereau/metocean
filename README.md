@@ -1,13 +1,10 @@
 # Python for ocean - atmosphere science and engineering
 
-<div align="center" >
+[Nicolas Fauchereau](mailto:nicolas.fauchereau@gmail.com)
+
 [METOCEAN](http://www.metocean.co.nz) talk, 16 February 2015  
 
-<font size="8">
 [https://github.com/nicolasfauchereau/metocean](https://github.com/nicolasfauchereau/metocean)
-</font>
-</div>
-
 
 + [The point of entry (index) for the notebooks](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/index.ipynb)
 
