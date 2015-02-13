@@ -4,9 +4,9 @@
 
 [METOCEAN](http://www.metocean.co.nz) talk, 16 February 2015  
 
-<hr size=5>
-
 [https://github.com/nicolasfauchereau/metocean](https://github.com/nicolasfauchereau/metocean)
+
+<hr size=5>
 
 + [The point of entry (index) for the notebooks](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/index.ipynb)
 
