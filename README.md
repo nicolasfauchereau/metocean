@@ -28,3 +28,7 @@
 + [EOF decomposition of SST anomalies in the Pacific with scikit-learn](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/sklearn_EOF_decomposition.ipynb)
 + [K-means clustering of SST anomalies in the Pacific with scikit-learn](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/sklearn_kmeans.ipynb)
 
+## EOF decomposition using the [eofs](http://ajdawson.github.io/eofs/index.html) package
+
++ [EOF decomposition of SST anomalies in the Pacific with `eofs`](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/eofs_EOF_decomposition.ipynb)
+
