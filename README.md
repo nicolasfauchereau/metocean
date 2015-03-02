@@ -13,6 +13,8 @@
 ## Some interesting tools 
 
 + [runipy (running IPython notebooks from the command line)](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/runipy.ipynb)
+    see the note inside this notebook: **runipy** does not work with the new version of IPython (IPython 3.0, notebook
+    format v4) but nbconvert (which comes with IPython) can now execute IPython notebooks in place.
 + [Anaconda and conda](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/conda.ipynb)
 
 ## Some interesting libraries 
