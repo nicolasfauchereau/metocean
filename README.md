@@ -16,7 +16,7 @@
 
     see the note inside this notebook: older versions of **runipy** will not work with the new version of IPython (IPython 3.0) notebook (format V4). You will need to either upgrade using `pip install https://github.com/paulgb/runipy/archive/master.zip`  
     or use **nbconvert** (which comes with IPython) and can now execute IPython notebooks in place.
-    
+
 + [Anaconda and conda](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/conda.ipynb)
 
 ## Some interesting libraries
@@ -39,3 +39,7 @@
 ## Calculate streamfunction and velocity potential from vector winds (U and V components) using [windspharm](http://ajdawson.github.io/windspharm/)
 
 + [installation instructions and examples for *windspharm*](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/spharm.ipynb)
+
+## Wavelet analysis of climate time-series in Python
+
++ [Wavelets in Python](http://nbviewer.ipython.org/github/nicolasfauchereau/metocean/blob/master/notebooks/wavelet_analysis.ipynb)
